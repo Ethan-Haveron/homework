@@ -1,0 +1,100 @@
+*{
+padding: 0;
+margin: 0;
+font-size: 100%;
+line-height: 1em;
+}
+
+ body{width: 75%;
+      max-width: 700px;
+      font-family: 'Libre Baskerville', serif;
+
+      margin: auto;
+      background-color: #fff;
+      color: #000;
+      line-height: 1.8;
+    }
+
+hgroup{
+  margin: auto;
+  font-size: 2em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+
+
+}
+h1{
+  font-size: .8em;
+}
+
+h2{
+  font-size: 1.6em;
+  line-height: 1.5em;
+
+}
+
+h3{
+  font-size: .9em;
+}
+
+.intro{
+  font-size: 1.25em;
+margin-bottom: 2.3em;
+line-height: 1.3em;
+
+}
+
+span{font-size:3em;
+      float: left;
+      margin-right: 0px;
+      line-height: .5em;
+      }
+
+p{
+  margin-bottom: 1em;
+  font-size: 1.1em;
+  font-family: 'Libre Baskerville', serif;
+}
+
+blockquote{
+  padding:  1em 0 2em 1em;
+  font-size: 1.563em;
+  line-height: 1.3em;
+  margin: -1em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+
+}
+
+blockquote cite{
+  font-size: .65em;
+  margin-top: 1em;
+
+
+}
+
+blockquote p{
+  color: #777;
+  hanging-punctuation:first;
+  text-indent: -0.5em;
+}
+
+.version-2{
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.cite-2{text-transform:uppercase;}
+
+
+
+.version-3{
+  font-family: 'Arvo', serif;
+}
+
+article{font-family: 'open sans',sans-serif;
+
+}
+
+.cite-3{font-size: .5em;}
